@@ -1,7 +1,7 @@
 {
   "name": "paystack-transaction-charges-to-cus",
   "version": "1.0.1",
-  "description": "Paystack Transaction Charges To Customer Library",
+  "description": "Paystack transaction charges to customer library for JavaScript and Node.js",
   "main": "dist/paystack-transaction-charges-to-cus.cjs.js",
   "module": "dist/paystack-transaction-charges-to-cus.esm.js",
   "browser": "dist/paystack-transaction-charges-to-cus.umd.js",
@@ -10,8 +10,20 @@
     "test": "node test/spec",
     "pretest": "npm run build"
   },
-  "author": "Adetayo Olaitan",
-  "license": "ISC",
+  "author": "Adetayo Olaitan <olaitan.adetayo@gmail.com> (https://github.com/olaitanade)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olaitanade/paystack-transaction-charges-to-cus-js.git"
+  },
+  "keywords": [
+    "paystack",
+    "payment",
+    "charge",
+    "customer",
+    "number",
+    "transaction"
+  ],
+  "license": "Apache-2.0",
   "devDependencies": {
     "@babel/core": "^7.14.5",
     "@babel/preset-env": "^7.14.5",
