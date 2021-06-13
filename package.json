@@ -1,6 +1,6 @@
 {
   "name": "paystack-transaction-charges-to-cus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Paystack transaction charges to customer library for JavaScript and Node.js",
   "main": "dist/paystack-transaction-charges-to-cus.cjs.js",
   "module": "dist/paystack-transaction-charges-to-cus.esm.js",
